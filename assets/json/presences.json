@@ -1,19 +1,19 @@
 [
   {
     "type": "PLAYING",
-    "message": "@Miyako help | {{guilds}} servers"
+    "message": "@WaveForm help | {{guilds}} servers"
   },
   {
     "type": "PLAYING",
-    "message": "m!help | {{guilds}} servers"
+    "message": "w!help | {{guilds}} servers"
   },
   {
     "type": "PLAYING",
-    "message": "m!invite | {{guilds}} servers"
+    "message": "w!invite | {{guilds}} servers"
   },
   {
     "type": "PLAYING",
-    "message": "m!support | {{guilds}} servers"
+    "message": "w!support | {{guilds}} servers"
   },
   {
     "type": "LISTENING",
@@ -29,23 +29,23 @@
   },
   {
     "type": "PLAYING",
-    "message": "invite me using m!invite"
+    "message": "invite me using w!invite"
   },
   {
     "type": "PLAYING",
-    "message": "life has no limits"
+    "message": "bring your life to a reality."
   },
   {
     "type": "PLAYING",
-    "message": "with ones and zeroes"
+    "message": "with ones and zeroes!"
   },
   {
     "type": "WATCHING",
-    "message": "Anime"
+    "message": "your discord!"
   },
   {
     "type": "PLAYING",
-    "message": "with Senpai"
+    "message": "with code! "
   },
   {
     "type": "PLAYING",
